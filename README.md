@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Caleb-Petersen-PhD.  I just graduated from Auburn University with my PhD in Mechanical Engineering.
+- 👀 I’m interested in 3D printing and cryptocurrency.
+- 🌱 I’m currently learning sailfish and marlin firmware.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
